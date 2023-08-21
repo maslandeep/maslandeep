@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maslandeep
 - 👀 I’m interested in computer vision and deep learning..
-- 🌱 I’m currently learning network pruning and quantization..
+- 🌱 I’m currently learning LLMs, self-attention based models, and new state-of-the-art techniques..
 - 💞️ I’m looking to collaborate on software development..
 - 📫 How to reach me maslanky@gmail.com
 
